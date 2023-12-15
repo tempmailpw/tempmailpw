@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, We are TempMail.pw Team</h1>
 <h3 align="center">A passionate backend and frontend developers from UAE and Pakistan.</h3>
 
-- 🔭 We are currently working on [Disposable Temporary Email](https://tempmail.pw/)
+- 🔭 We are currently working on [Disposable Temporary Email](https://www.tempmail.pw/)
 
 - 👯 We are looking to collaborate on **Android and IOS Application**
-
-- 🤝 I’m looking for help with [UI/UX Design](https://tempmail.pw/)
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
