@@ -1,10 +1,50 @@
-- 👋 Hi, I’m @tempmailpw
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, We are TempMail.pw Team</h1>
+<h3 align="center">A passionate backend and frontend developers from UAE and Pakistan.</h3>
 
-<!---
-tempmailpw/tempmailpw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 We are currently working on [Disposable Temporary Email](https://tempmail.pw/)
+
+- 👯 We are looking to collaborate on **Android and IOS Application**
+
+- 🤝 I’m looking for help with [UI/UX Design](https://tempmail.pw/)
+
+<h3 align="left">Connect with us:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/company/tempmail-pw?trk=public_post_follow-view-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/tempmail-pw?trk=public_post_follow-view-profile" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tempmailpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tempmailpw" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+
+<h1>How to Create Custom Temp Mail? A Comprehensive Guide</h1>
+<p>In this digital age, online privacy has become a paramount concern. Whether you want to sign up for a new service without revealing your primary email address or protect your inbox from spam, creating a custom temporary email address can be the solution. In this comprehensive guide, we will walk you through the process of how to create custom temp mail.</p>
+<p><img src="https://cdn.pixabay.com/photo/2018/03/22/02/37/email-3249062_1280.png" alt="temporary mail" /></p>
+<p>In this article, we will provide you with a step-by-step guide on how to create custom temp mail. You'll learn how to set up your personalized temporary email address, manage it effectively, and make the most of this valuable tool for safeguarding your online identity.</p>
+<h2>Getting Started</h2>
+<h3>Choosing a Service Provider</h3>
+<p>The first step in creating <a href="https://tempmail.pw/">temp mail</a> is selecting a reliable service provider. Several websites and applications offer temporary email services for free. Some popular choices include TempMail, Guerrilla Mail, and 10 Minute Mail. Pick one that suits your preferences and needs.</p>
+<h3>Registering Your Custom Address</h3>
+<p>Once you've chosen a service provider, you'll need to register your custom temporary email address. Most platforms allow you to pick a username or generate a random one. Ensure that your chosen address is unique and easy to remember.</p>
+<h2>Using Your Custom Temp Mail</h2>
+<h3>Signing Up for Services</h3>
+<p>One of the primary purposes of custom temp mail is to sign up for online services without exposing your primary email address to potential spam. Use your custom address during registration.</p>
+<h3>Receiving Verification Emails</h3>
+<p>When you sign up for new services, they often send verification emails to confirm your registration. Check your custom temp mail for these emails and follow the verification links as needed.</p>
+<h3>Accessing One-Time Downloads</h3>
+<p>If you come across a website that requires an email address to access a one-time download link, your custom temp mail is the perfect solution. Enter your temporary address, receive the link, and download the content you need.</p>
+<h3>Avoiding Spam</h3>
+<p>Custom temp mail addresses are excellent for avoiding spam in your primary inbox. Use them for online shopping, participating in surveys, or subscribing to newsletters.</p>
+<h2>FAQs (Frequently Asked Questions)</h2>
+<h3>How many custom temp mail addresses can I create?</h3>
+<p>You can create as many custom temp mail addresses as you need. Most service providers do not impose limits on the number of addresses you can generate.</p>
+<h3>Are custom temp mail addresses secure?</h3>
+<p>While <a href="https://tempmail.pw/change">custom temp mail</a> addresses offer a degree of anonymity and security, they are not completely foolproof. Exercise caution when sharing sensitive information via temporary email.</p>
+<h3>Can I use custom temp mail for important accounts?</h3>
+<p>It's recommended to use your primary email address for important accounts like banking and social media. Custom temp mail is best for disposable or low-priority interactions.</p>
+<h3>Do custom temp mail addresses expire?</h3>
+<p>Yes, custom temp mail addresses typically have an expiration date, which can range from a few minutes to several days. Make sure to check the expiration settings when creating one.</p>
+<h3>Can I forward emails from my custom temp mail to my primary inbox?</h3>
+<p>Many service providers offer forwarding options, allowing you to receive emails from your custom temp mail in your primary inbox. Check if your chosen provider offers this feature.</p>
+<h3>Is it legal to use custom temp mail for online services?</h3>
+<p>Using custom temp mail for online services is generally allowed, but it's essential to review the terms and conditions of each service to ensure compliance with their policies.</p>
